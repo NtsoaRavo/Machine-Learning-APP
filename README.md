@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+"# Machine-Learning-APP" 
+>>>>>>> e7bd62d1c0bf6e873fce87558a0790e7e0f7de9b
 # Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
